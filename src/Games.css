@@ -1,0 +1,45 @@
+#Games{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:230px;
+    height:300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: White;
+    background-repeat: re;
+    background-size: contain;
+    padding-left: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family:sans-serif;
+    background-image: url(./images/Games.jfif);
+    background-size: cover;
+}
+#image{
+    width: 55px;
+    height: 55px;
+    border-radius: 5px;
+}
+#Settings{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:230px;
+    height:300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: White;
+    background-repeat: re;
+    background-size: contain;
+    padding-left: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family:sans-serif;
+    background-image: url(./images/Settings.jfif);
+    background-size: cover;
+}

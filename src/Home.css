@@ -1,0 +1,19 @@
+#Home{
+    display: flex;
+    width:230px;
+    height:300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    /* background-image: url(./images/10.webp); */
+    background-size: cover;
+    padding-left: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:sans-serif;
+    color:white;
+}
+#home{
+    margin-top: 250px;
+    margin-left: 100px;
+    color: blue;
+}

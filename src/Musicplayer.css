@@ -1,0 +1,38 @@
+#outerofmusic{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width:230px;
+    height:300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-repeat: re;
+    background-size: contain;
+    padding-left: 1px;
+    font-size: 20px;
+    font-weight: bold;
+    color:White;
+    font-family:sans-serif;
+    background-image: url(./images/1.webp);
+    background-size: cover;
+}
+img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+.time{
+    font-size: 16px;
+}
+#songsprogress{
+    display: flex;
+    justify-content: space-around;
+}
+#bar{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+input{
+    width: 200px;
+}

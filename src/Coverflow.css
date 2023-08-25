@@ -1,0 +1,17 @@
+#Coverflow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:230px;
+    height:300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: White;
+    background-repeat: re;
+    background-size: contain;
+    padding-left: 1px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family:sans-serif;
+}
